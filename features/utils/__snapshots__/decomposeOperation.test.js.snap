@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`decomposeOperation should fail if the operation has more than 1 selection 1`] = `"More than 1 selection is defined in this operation! Please specify only 1 selection"`;
+
+exports[`decomposeOperation should fail if the operation is an implicit query 1`] = `"Implicit query are not allowed! Please specify an operation name."`;
+
+exports[`decomposeOperation should fail if the operation is an unnamed operation 1`] = `"Unnamed operations are not allowed! Please specify an operation name."`;
+
+exports[`decomposeOperation should return a GraphQL source & infos about it from a GraphQL source 1`] = `
+Object {
+  "information": Object {
+    "operation": "query",
+    "operationName": "hello",
+    "selectionName": "world",
+  },
+  "source": "query hello { world }",
+}
+`;
+
+exports[`decomposeOperation should return a GraphQL source & infos about it from a GraphQL source 2`] = `
+Object {
+  "information": Object {
+    "operation": "query",
+    "operationName": "hello",
+    "selectionName": "world",
+  },
+  "source": "query hello {
+  world
+}
+",
+}
+`;

@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`runGraphQL should run an operation against a schema 1`] = `
+Object {
+  "error": undefined,
+  "value": "Hello World",
+}
+`;

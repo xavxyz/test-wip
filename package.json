@@ -1,0 +1,30 @@
+{
+  "name": "features",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:graphql": "nodemon ./node_modules/.bin/cucumber-js --require features/support.js --watch . --watch ./server --watch ./ui --exec babel-node -e js,feature",
+    "test:utils": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.24.0",
+    "babel-plugin-transform-async-generator-functions": "^6.24.1",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-latest": "^6.23.0",
+    "babel-preset-react": "^6.24.1",
+    "cucumber": "^3.0.0",
+    "expect": "^1.20.2",
+    "fs-extra": "^4.0.1",
+    "graphql": "^0.10.5",
+    "graphql-tag": "^2.4.2",
+    "graphql-tools": "^1.1.0",
+    "jest": "^20.0.4",
+    "nodemon": "^1.11.0",
+    "react": "^15.6.1"
+  }
+}

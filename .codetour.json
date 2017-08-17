@@ -1,0 +1,10 @@
+{
+  "targetRepository": "partyparrot/spectacular-codetours",
+  "description": "Spectacular CodeTours",
+  "steps": [
+    "pkg.md",
+    "query.md",
+    "setup.md",
+    "party.md"
+  ]
+}
