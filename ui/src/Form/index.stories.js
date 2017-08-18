@@ -1,12 +1,11 @@
 import React from 'react';
-
 import { storiesOf } from '@storybook/react';
 import { action } from '@storybook/addon-actions';
 
 import FormWithMutation, { Form } from './index';
 
 storiesOf('Form', module)
-  .add('mocked form', () =>
+  .add('stubbed form', () =>
     <Form
       state={{ money: 10 }}
       setState={action('change event on input value')}
