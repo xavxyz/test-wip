@@ -1,7 +1,7 @@
 ---
 title: Translate the client requirements
 code: https://github.com/xavcz/test-wip/blob/master/features/deposit-funds/index.feature
-note: https://github.com/xavcz/test-wip/blob/master/.design/what-we-test-with-cucumber.png
+note: https://github.com/xavcz/test-wip/blob/master/.design/step-1.png
 ---
 
 <a href="https://github.com/xavcz/test-wip/blob/master/features/deposit-funds/index.feature#L1-L3">🥒 Feature > Scenario</a>

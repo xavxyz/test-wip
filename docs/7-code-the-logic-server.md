@@ -1,6 +1,7 @@
 ---
 title: Code the logic (Server)
 code: https://github.com/xavcz/test-wip/blob/master/server/src/resolvers.js
+note: https://github.com/xavcz/test-wip/blob/master/.design/step-7.png
 ---
 
 <a href="https://github.com/xavcz/test-wip/blob/master/server/src/resolvers.js#L1-L2">We need to implement a new mutation</a>

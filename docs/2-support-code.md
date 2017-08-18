@@ -1,6 +1,7 @@
 ---
 title: Support the scenario with code
 code: https://github.com/xavcz/test-wip/blob/master/features/deposit-funds/support.js
+note: https://github.com/xavcz/test-wip/blob/master/.design/step-2.png
 ---
 
 <a href="https://github.com/xavcz/test-wip/blob/master/features/deposit-funds/support.js#L3">Only code specific to the *feature* is written (otherwise it means that it's shared)</a>

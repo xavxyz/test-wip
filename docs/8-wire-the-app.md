@@ -1,6 +1,7 @@
 ---
 title: Wire the app
 code: https://github.com/xavcz/test-wip/blob/master/ui/src/index.js
+note: https://github.com/xavcz/test-wip/blob/master/.design/step-8.png
 ---
 
 <a href="https://github.com/xavcz/test-wip/blob/master/ui/src/index.js#L9">Component with the mutation (default export)</a>
