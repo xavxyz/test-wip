@@ -1,5 +1,5 @@
 ---
-title: Type definitions
+title: Define the GraphQL types
 code: https://github.com/xavcz/test-wip/blob/master/server/src/typeDefs.js
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Write the code that map the scenario
+title: Support the scenario with code
 code: https://github.com/xavcz/test-wip/blob/master/features/deposit-funds/support.js
 ---
 

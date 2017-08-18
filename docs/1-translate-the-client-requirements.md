@@ -8,5 +8,5 @@ code: https://github.com/xavcz/test-wip/blob/master/features/deposit-funds/index
 <a href="https://github.com/xavcz/test-wip/blob/master/features/deposit-funds/index.feature#L4">I have a balance that holds an integer</a>
 
 <a href="https://github.com/xavcz/test-wip/blob/master/features/deposit-funds/index.feature#L5">I have an operation that takes an integer variable</a>
-<a href="https://github.com/xavcz/test-wip/blob/master/features/deposit-funds/index.feature#L7">The balance is modified to be a new integer</a>
+<a href="https://github.com/xavcz/test-wip/blob/master/features/deposit-funds/index.feature#L6">The balance is modified to be a new integer</a>
 <a href="https://github.com/xavcz/test-wip/blob/master/features/deposit-funds/index.feature#L7">The operation returns this new integer</a>
