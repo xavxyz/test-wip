@@ -1,7 +1,6 @@
 import expect from 'expect';
 
 export default function depositFundsSteps({ When, Then }) {
-  // Scenario: Client can deposit cash to their account
   When('Robert deposits ${int}', async function(int) {
     await this.depositFunds(int);
   });
