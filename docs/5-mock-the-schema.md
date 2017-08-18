@@ -1,5 +1,5 @@
 ---
-title: Mock the schema
+title: Mock the GraphQL schema
 code: https://github.com/xavcz/test-wip/blob/master/server/src/mocks.js
 ---
 
