@@ -2,8 +2,8 @@
   "targetRepository": "xavcz/test-wip",
   "description": "Behavior Driven Development + GraphQL First",
   "steps": [
-    "docs/1-given-conditions.md",
-    "docs/2-domain-model-interactions.md",
+    "docs/1-translate-the-client-requirements.md",
+    "docs/2-support-code.md",
     "docs/3-type-definitions.md",
     "docs/4-write-the-graphql-operation.md",
     "docs/5-mock-the-schema.md",
