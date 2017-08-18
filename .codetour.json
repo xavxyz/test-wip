@@ -1,10 +1,5 @@
 {
-  "targetRepository": "partyparrot/spectacular-codetours",
-  "description": "Spectacular CodeTours",
-  "steps": [
-    "pkg.md",
-    "query.md",
-    "setup.md",
-    "party.md"
-  ]
+  "targetRepository": "xavcz/test-wip",
+  "description": "Behavior Driven Development + GraphQL First",
+  "steps": ["docs/pkg.md", "docs/query.md", "docs/setup.md", "docs/party.md"]
 }
